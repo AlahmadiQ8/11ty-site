@@ -1,6 +1,8 @@
 ---
 title: On Prioritizing Side Projects
 description: In this post, I’ll focus on what I’ve learned about how to prioritize which projects to work on.
+tags: 
+  - productivity
 ---
 
 ![Confused Kawaii]({{ assets.img }}/confused.png)
