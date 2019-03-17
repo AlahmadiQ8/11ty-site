@@ -6,8 +6,10 @@
   "scripts": {
     "prod:eleventy": "rimraf _site && eleventy --config build-utils/eleventy.config.js",
     "prod:webpack": "npm run webpack -- --env.mode production",
-    "dev:eleventy": "eleventy --config build-utils/eleventy.config.js --watch --serve",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:eleventy": "eleventy --config build-utils/eleventy.config.js --watch",
+    "dev:webpack": "npm run webpack -- --env.mode development --watch",
+    "dev": "npm-run-all --parallel serve dev:*",
+    "serve": "browser-sync start --config build-utils/bs-config.js",
     "webpack": "webpack"
   },
   "keywords": [],
@@ -18,6 +20,7 @@
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
     "babel-loader": "^8.0.5",
+    "browser-sync": "^2.26.3",
     "clean-webpack-plugin": "^2.0.1",
     "copy-webpack-plugin": "^5.0.1",
     "css-loader": "^2.1.1",
@@ -27,6 +30,7 @@
     "mini-css-extract-plugin": "^0.5.0",
     "node-sass": "^4.11.0",
     "npm-check-updates": "^3.0.12",
+    "npm-run-all": "^4.1.5",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.6.0",

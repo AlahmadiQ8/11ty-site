@@ -4,7 +4,7 @@ module.exports = function(eleventy) {
       input: 'src',
       output: '_site'
     },
-    templateFormats: ['njk', 'md', 'jpg'],
+    templateFormats: ['njk', 'md', 'jpg', 'png'],
     passthroughFileCopy: true
   };
 };
