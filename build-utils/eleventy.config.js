@@ -14,6 +14,9 @@ module.exports = function(eleventy) {
   eleventy.addCollection('project', collection => {
     return collection.getFilteredByGlob('**/projects/*.md').reverse();
   });
+  eleventy.addCollection('note', collection => {
+    return collection.getFilteredByGlob('**/notes/*.md').reverse();
+  });
 
   return {
     dir: {
