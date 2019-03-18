@@ -1,5 +1,12 @@
 {
   "title": "Mohammad Alahmadi's home page",
   "description": "A space to share Mohammad Alahamad's thoughts and who he is to the world",
-  "Author": "Mohammad Alahmadi"
+  "Author": "Mohammad Alahmadi",
+  "navMenu": [
+    { "name": "About Me", "url": "{{ '/about-me/' | url }}"},
+    { "name": "Resume", "url": "#", "external": true },
+    { "name": "Blog", "url": "{{ '/posts/' | url }}"},
+    { "name": "Projects", "url": "{{ '/projects/' | url }}"},
+    { "name": "Notes", "url": "{{ '/notes/' | url }}"}
+  ]
 }
