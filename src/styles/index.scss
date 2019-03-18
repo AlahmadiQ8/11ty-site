@@ -1,4 +1,5 @@
 @import './bootstrap';
+@import './prism-theme.css';
 
 
 @each $breakpoint in map-keys($grid-breakpoints) {
@@ -198,4 +199,36 @@ main {
 
 nav {
   overflow: scroll;
+}
+
+.single-post {
+  color: gray('600');
+  img, twitter-widget {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  img {
+    border: 1px solid #e1e2e4;
+  }
+  h1 {
+    margin-top: 2 * $spacer;
+    margin-bottom: 1.5 * $spacer;
+    font-size: $h5-font-size;
+    border-bottom: 2px solid #EFF3F6;
+    font-family: 'Roboto', $font-family-sans-serif;
+    color: $indigo;
+  }
+  h2 {
+    margin-top: 1.75 * $spacer;
+    margin-bottom: 1.25 * $spacer;
+    font-size: $h6-font-size;
+    font-family: 'Roboto', $font-family-sans-serif;
+    font-weight: bold;
+    color: $indigo;
+    border-bottom: 2px solid #EFF3F6;
+  }
 }

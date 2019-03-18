@@ -1,12 +1,12 @@
-const path = require('path')
-const postcssPresetEnv = require('postcss-preset-env')
+const path = require('path');
+const postcssPresetEnv = require('postcss-preset-env');
 
 module.exports = () => ({
   devtool: 'eval',
   module: {
     rules: [
       {
-        test: /\.(sass|scss)$/,
+        test: /\.(sass|scss|css)$/,
         use: [
           'style-loader',
           'css-loader',
@@ -14,20 +14,18 @@ module.exports = () => ({
             loader: 'postcss-loader',
             options: {
               ident: 'postcss',
-              plugins: () => [
-                postcssPresetEnv({ browsers: 'last 2 versions' }),
-              ],
-            },
+              plugins: () => [postcssPresetEnv({ browsers: 'last 2 versions' })]
+            }
           },
-          'sass-loader',
-        ],
-      },
-    ],
+          'sass-loader'
+        ]
+      }
+    ]
   },
   devServer: {
     contentBase: path.join(__dirname, 'dist'),
     compress: true,
     port: 9000,
-    overlay: true,
-  },
-})
+    overlay: true
+  }
+});
