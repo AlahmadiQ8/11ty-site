@@ -14,7 +14,7 @@ module.exports = ({ mode, presets } = { mode: 'production', presets: [] }) => {
   return webpackMerge(
     {
       mode,
-      entry: path.resolve(__dirname, 'src/_js/index.js'),
+      entry: path.resolve(__dirname, 'src/js/index.js'),
       output: {
         filename: 'bundle.js',
         path: path.resolve(__dirname, '_site')
@@ -27,7 +27,7 @@ module.exports = ({ mode, presets } = { mode: 'production', presets: [] }) => {
             use: ['babel-loader']
           },
           {
-            test: /\.jpe?g$/,
+            test: /\.(jpe?g|png)$/,
             use: [
               {
                 loader: 'url-loader',

@@ -9,8 +9,10 @@ module.exports = function(eleventy) {
   });
 
   eleventy.addCollection('post', collection => {
-    console.log(collection.items[1]);
-    return collection.getFilteredByGlob('**/posts/**/*.md').reverse();
+    return collection.getFilteredByGlob('**/posts/*.md').reverse();
+  });
+  eleventy.addCollection('project', collection => {
+    return collection.getFilteredByGlob('**/projects/*.md').reverse();
   });
 
   return {

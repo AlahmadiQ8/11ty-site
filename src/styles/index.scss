@@ -66,10 +66,10 @@ aside {
   @include media-breakpoint-up(sm) {
     width: 40px;
   }
-}
-.social-icon.post {
-  width: auto;
-  height: 30px;
+  &.post {
+    width: auto;
+    height: 30px;
+  }
 }
 
 .border-none {
@@ -172,5 +172,18 @@ main {
     background-color: #f2f5f7;
     // height: 200px;
     color: gray('600');
+  }
+}
+
+.project__icon {
+  width: 20px;
+  height: auto;
+  fill: currentColor;
+  &.post {
+    width: auto;
+    height: 20px;
+  }
+  @include media-breakpoint-up(sm) {
+    width: 30px;
   }
 }
