@@ -1,0 +1,20 @@
+git:
+  quiet: true
+language: node_js
+node_js: 
+  - "10"
+before_install:
+  - npm i -g npm@6
+cache: npm
+install: npm ci
+script: npm run prod
+deploy:
+  local-dir: _site
+  repo: AlahmadiQ8/alahmadiq8
+  target-branch: master
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
