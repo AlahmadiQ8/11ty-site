@@ -93,7 +93,7 @@ $spacers: map-merge(
 );
 
 $font-family-cursive: 'Averia Libre', cursive;
-$font-family-base:    'Roboto', $font-family-sans-serif;
+$font-family-base: 'Noto Sans', $font-family-sans-serif;
 
 $link-color: lighten(color('red'), 10%);
 $link-decoration: none;
