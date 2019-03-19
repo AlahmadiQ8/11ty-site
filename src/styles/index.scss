@@ -106,6 +106,9 @@ aside {
 main {
   max-width: $spacer * 50;
   line-height: 1.5;
+  @include media-breakpoint-up(lg) {
+    max-width: $spacer * 60;
+  }
   h1 {
     font-family: $font-family-cursive;
     color: $purple;
