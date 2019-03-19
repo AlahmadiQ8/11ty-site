@@ -10,7 +10,7 @@ install: npm ci
 script: npm run prod
 deploy:
   local-dir: _site
-  repo: AlahmadiQ8/alahmadiq8
+  repo: AlahmadiQ8/alahmadiq8.github.io
   target-branch: master
   provider: pages
   skip-cleanup: true
