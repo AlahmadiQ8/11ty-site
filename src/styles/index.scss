@@ -225,6 +225,7 @@ nav {
     border-bottom: 2px solid #EFF3F6;
     font-family: 'Roboto', $font-family-sans-serif;
     color: gray('700');
+    padding-bottom: .5rem;
   }
   h2 {
     margin-top: 1.75 * $spacer;
@@ -233,5 +234,6 @@ nav {
     font-family: 'Roboto', $font-family-sans-serif;
     color: gray('700');
     border-bottom: 2px solid #EFF3F6;
+    padding-bottom: .5rem;
   }
 }
