@@ -123,9 +123,6 @@ main {
     margin-bottom: 1.2 * $spacer;
     font-weight: 300;
   }
-  ul {
-    padding-left: $spacer * 1.2;
-  }
   a {
     border-bottom: 2px solid #EFF3F6;
   }
@@ -176,7 +173,6 @@ main {
   &__item {
     padding: 1 * $spacer;
     background-color: #f2f5f7;
-    // height: 200px;
     color: gray('600');
   }
 }
@@ -205,7 +201,8 @@ nav {
 }
 
 .single-post {
-  color: #212121;
+  // color: #212121;
+  color: gray('700');
   line-height: 1.75;
   li {
     margin: 0.75rem 0;

@@ -45,10 +45,6 @@ After my recent trip to Barcelona with my family, I realized how much I missed o
 
 # Replace Solo activities with Social Experiences
 
-By solo activities I mean Netflix and video games. I want to replace those with more lasting memory activities like hanging out with family and friends. 
-
-- Strengthens my bond with my beloved ones. After all, I am an emotional human being and selfishly in need of a support system. 
-- Improve my communication skills.
-- Expand my luck. Who knows, I may meet my soulmate or my future cofounder 😉. 
+By solo activities I mean Netflix and video games. I want to replace those with more lasting memory activities like hanging out with family and friends. This would strengthens my bond with my beloved ones. After all, I am an emotional human being and selfishly in need of a support system.
 
 
