@@ -16,7 +16,7 @@ Here is why I’m really interested in trying this weekly goals method:
 
 - **Forces me to break down my goals into smaller tasks with limited scope:** I have a huge list of broad project ideas that I never attempted to tackle because I am intimidated by their large scope. Having tasks broken into smaller actionable ones makes them more approachable.
 - **Enables me to have better life balance:** For example, I sometimes feel guilty for having fun because there is this pressing feeling that I should be doing something productive. Having weekly goals means I can have a better reward system in my life. Once I can feel confident that I will complete my goals within a week, I can reward myself and have carefree fun. 
-- **Disciplines me to stay on track****:** There are tasks which are no fun to do but required (called being an adult) such as calling the insurance company, laundry, meal prep, etc. Weekly goals along with a reward system help me get better at those kinds of tasks. 
+- **Disciplines me to stay on track**: There are tasks which are no fun to do but required (called being an adult) such as calling the insurance company, laundry, meal prep, etc. Weekly goals along with a reward system help me get better at those kinds of tasks. 
 - **Helps me to be more focused:** Having set goals for the week prevents me from being tempted to switch to other tasks or projects. 
 
 Finally, I also want to clarify that goals can be literally anything you want and not limited to professional ones. Here is an example of some goals I might set for myself in the future: 
