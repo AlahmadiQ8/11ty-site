@@ -31,6 +31,7 @@ Here are the list of books I aim to finish this year
 - The 4 hour workweek
 - The E-Myth Revisited
 - The Lean Startup
+- Becoming - Michelle Obama (Audiobook)
 
 Besides the obvious benefits of reading, I hope to achieve the following goals: 
 
@@ -39,11 +40,11 @@ Besides the obvious benefits of reading, I hope to achieve the following goals:
   - Being away from my phone
   - Social media: Yes I have a social media addiction problem. I’m a social media whore. I am currently adopting a less aggressive version of [this guy](https://www.barbarianmeetscoding.com/blog/2018/10/05/how-to-be-more-productive-and-have-a-happier-life-in-5-easy-steps) by setting timers on my social media phone apps. 
 
-# Travel More
+# Travel more
 
 After my recent trip to Barcelona with my family, I realized how much I missed out on traveling. My trip expanded my horizon beyond the Southern California bubble. This year, my goal is to save money for traveling. 
 
-# Replace Solo activities with Social Experiences
+# Replace solo activities with social experiences
 
 By solo activities I mean Netflix and video games. I want to replace those with more lasting memory activities like hanging out with family and friends. This would strengthens my bond with my beloved ones. After all, I am an emotional human being and selfishly in need of a support system.
 
