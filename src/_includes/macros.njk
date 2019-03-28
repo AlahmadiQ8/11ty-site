@@ -1,6 +1,6 @@
-{% macro entry(title, date, url, content, tags) %}
+{% macro entry(title, date, url, content, tags, external = false) %}
 <section class="post-entry">
-  <a href="{{ url }}"><h2 class="h5">{{ title }}</h2></a>
+  <a href="{% if external %}{{ external }}{% else %}{{ url }}{% endif %}" {% if external %}target="_blank" rel="noopener noreferrer"{% endif %}><h2 class="h5">{{ title }}</h2></a>
   <div class="d-flex flex-sm-row flex-column align-items-md-center align-items-start justify-content-start">
     <div class="tag-meta d-flex mr-3">
       <div class="mr-3">
