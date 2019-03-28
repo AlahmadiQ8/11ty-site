@@ -38,7 +38,7 @@ Besides the obvious benefits of reading, I hope to achieve the following goals:
 - Learn more about entrepreneurship
 - Get better at removing distractions. Unlike reading articles, books require a longer attention span. That means I’d have to kill all unnecessary distractions like the following: 
   - Being away from my phone
-  - Social media: Yes I have a social media addiction problem. I’m a social media whore. I am currently adopting a less aggressive version of [this guy](https://www.barbarianmeetscoding.com/blog/2018/10/05/how-to-be-more-productive-and-have-a-happier-life-in-5-easy-steps) by setting timers on my social media phone apps. 
+  - Social media: Yes I have a social media addiction problem. I am currently adopting a less aggressive version of [this guy](https://www.barbarianmeetscoding.com/blog/2018/10/05/how-to-be-more-productive-and-have-a-happier-life-in-5-easy-steps) by setting timers on my social media phone apps. 
 
 # Travel more
 
