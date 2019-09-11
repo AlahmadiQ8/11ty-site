@@ -1,6 +1,7 @@
 lib
 coverage
 _site
+.vs
 
 # Node build artifacts
 node_modules

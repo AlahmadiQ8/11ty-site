@@ -14,7 +14,7 @@ layout: layouts/base.njk
 <p class="text-secondary">A public space where I track of my notes and things I learn.</p>
 <div class="notes">
   {%- for note in collections.note -%}
-  {{ macros.entry(note.data.title, note.date, note.url, note.template.inputContent, note.data.tags) }}
+  {{ macros.entry(note.data.title, note.date, note.url, note.template.inputContent, note.data.tags, external = post.data.external) }}
   {%- endfor -%}
 </div>
 
