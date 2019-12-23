@@ -1,4 +1,4 @@
 {
-  "iso": "YYYY-MM-DD",
-  "date_long": "MMM D, YYYY"
+  "iso": "yyyy-MM-dd",
+  "date_long": "MMM d, yyyy"
 }
