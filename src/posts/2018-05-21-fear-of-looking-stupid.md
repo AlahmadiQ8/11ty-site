@@ -5,7 +5,7 @@ tags:
   - productivity
 ---
 
-I’ve always wanted to improve my writing skills. Blog writing is a good way to force myself into the habit of writing and improving along the way. But it took me about one whole year until I had the courage to start writing and publishing my stuff. I was just too conscious about how I would be perceived, but I finally did it! I published my [first blog post](/posts/on-prioritizing-side-projects) a couple of months ago. Of course, it’s no Pulitzer-worthy content… it’s a topic that's been heavily talked about before. But it’s a start, and it helped me get the ball rolling for future blog posts (like this one!). 
+I’ve always wanted to improve my writing skills. Blog writing is a good way to force myself into the habit of writing and improving along the way. But it took me about one whole year until I had the courage to start writing and publishing my stuff. I was just too conscious about how I would be perceived, but I finally did it! I published my [first blog post](https://dev.to/alahmadiq8/on-prioritizing-side-projects-3kni) a couple of months ago. Of course, it’s no Pulitzer-worthy content… it’s a topic that's been heavily talked about before. But it’s a start, and it helped me get the ball rolling for future blog posts (like this one!). 
 
 One year is a hell of a long time to publish a single 500-word article. Why did it take me so long? I have come to realize it was simply because I was afraid to be ridiculed and look stupid. I desperately wanted to make the perfect blog post. However, I wish I had learned earlier that you can never make the perfect thing on a first try. I needed to start somewhere, and accept that start would be messy and rough. I also needed to accept that I might indeed look stupid. So what?
 
