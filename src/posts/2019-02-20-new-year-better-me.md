@@ -7,7 +7,7 @@ tags:
 
 Inspired by [this awesome post](https://www.barbarianmeetscoding.com/newsletter/2019-01-04-goodbye-2018-hello-2019-and-of-wizards-who-use-vim/), I want to take this time to reflect on my life goals and what I hope to accomplish by the end of the year. 
 
-2018 was a wonderful year where I have been able to grow a lot personally and professedly. I was in Santa Barbara for my last gig. During my time I have made lifelong friendships, explored various hobbies, and even tried new things outside of my comfort zone. 
+2018 was a wonderful year where I have been able to grow a lot personally and professionally. I was in Santa Barbara for my last gig. During my time I have made lifelong friendships, explored various hobbies, and even tried new things outside of my comfort zone. 
 
 I want to take this space to jot down my goals for this year. I have a few big projects that will push my boundaries this year in hopes to help me grow as a person. 
 
