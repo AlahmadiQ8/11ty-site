@@ -1,6 +1,6 @@
 {
   "title": "Mohammad Mohammad's home page",
-  "description": "A space to share Mohammad Alahamad's thoughts and who he is to the world",
+  "description": "A space to share Mohammad's thoughts and who he is to the world",
   "Author": "Mohammad Mohammad",
   "navMenu": [
     { "name": "About Me", "url": "{{ '/about-me/' | url }}"},
