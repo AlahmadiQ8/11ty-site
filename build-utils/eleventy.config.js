@@ -1,8 +1,25 @@
+const loadLanguages = require('prismjs/components/');
+
+
 const readingTime = require('eleventy-plugin-reading-time');
 const { format } = require('date-fns');
-const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight', {
+  init: ({ Prism }) => {
+    loadLanguages(['haml', 'zsh', 'csharp', 'bash']);
+    require('prismjs/components/prism-bash')
+  }
+});
 
 module.exports = function(eleventy) {
+
+  let markdownIt = require("markdown-it");
+  let options = {
+    html: true
+  };
+  let markdownLib = markdownIt(options).use(require('markdown-it-anchor'));
+  
+  eleventy.setLibrary("md", markdownLib);
+
   eleventy.addPlugin(readingTime);
   eleventy.addPlugin(syntaxHighlight);
 
