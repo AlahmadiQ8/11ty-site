@@ -1,5 +1,5 @@
 ---
-title: Adding Angular App to an Existing Razor Page in an ASP.Net Core App
+title: Adding Angular Components to an Existing Razor Page in an ASP.Net Core App
 tags: 
   - csharp
   - technical
