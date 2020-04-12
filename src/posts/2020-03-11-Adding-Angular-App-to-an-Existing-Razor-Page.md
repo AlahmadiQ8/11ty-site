@@ -5,6 +5,8 @@ tags:
   - technical
 ---
 
+> **Update (Mar 17, 2020):** I found out that you can use the tag helper [srcInclude](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.taghelpers.scripttaghelper.srcinclude?view=aspnetcore-3.1#Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper_SrcInclude) that enables you to use glob patterns such as this: `<script asp-src-include"~/app.*.js"></script>`. Hence, my lengthy hacky way below is unnecessary unless you're deploying hashed assets to a CDN.
+
 <!-- omit in toc -->
 # Content
 - [TL;DR](#tl%3Bdr)
